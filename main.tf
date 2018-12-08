@@ -1,6 +1,6 @@
 provider "vsphere" {
   user           = "anthony@vsphere.local"
-  password       = "H4sh!corp"
+  password       = ""
   vsphere_server = "ah-vcsa.hashicorp-success.com"
   allow_unverified_ssl = true
 } 
